@@ -1,0 +1,1 @@
+This is an eCommerce web application designed to provide a seamless shopping experience. The project includes features such as product listings, a shopping cart, user authentication, and order management. Built with modern web technologies, it aims to deliver an intuitive user interface and efficient performance.
